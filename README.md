@@ -118,8 +118,8 @@ scientist.
 
 If the `Scientist` exists, return JSON data in the format below. **Note**: you will
 need to serialize the data for this response differently than for the
-`GET /scientists` route. Make sure to include an array of missions for each
-scientist.
+`GET /scientists` route. Make sure to include an array of scientists for each
+mission.
 
 ```json
 {

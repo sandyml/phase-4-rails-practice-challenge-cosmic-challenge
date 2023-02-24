@@ -85,7 +85,6 @@ export default function ScientistForm(
         })
     }
 
-
     return (
         <section>
             <form onSubmit={handleSubmit}>
